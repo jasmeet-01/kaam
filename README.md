@@ -25,7 +25,7 @@ Kaam allows users to create notes/tasks, confirm before saving, and keep their s
 
 The main interface contains the application header, welcome section, current date/time, and the Notes form.
 
-![Kaam Home Screen](./screenshots/home-screen.png)
+![Kaam Home Screen](./src/home-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ The main interface contains the application header, welcome section, current dat
 
 Before saving a note, the application displays a confirmation dialog with **Cancel** and **Save** actions.
 
-![Save Confirmation](./screenshots/save-confirmation.png)
+![Save Confirmation](./src/save-confirmation.png)
 
 ---
 
@@ -41,7 +41,7 @@ Before saving a note, the application displays a confirmation dialog with **Canc
 
 Once saved, the note is displayed as a card containing its title and content.
 
-![Saved Note](./screenshots/saved-note.png)
+![Saved Note](./src/saved-note.png)
 
 ---
 
